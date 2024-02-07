@@ -24,6 +24,16 @@ rm -f packages.microsoft.gpg
 
 ```
 sudo apt install apt-transport-https
+```
+
+```
 sudo apt update
+```
+
+```
 sudo apt install code # or code-insiders
+```
+
+```
+sudo apt install openjdk-23-jre
 ```
