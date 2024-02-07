@@ -3,6 +3,14 @@
 ## VS CODE
 
 ```
+sudo apt-get install ssh
+```
+
+```
+sudo /etc/init.d/ssh start
+```
+
+```
 sudo apt-get install wget gpg
 ```
 
