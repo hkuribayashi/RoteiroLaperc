@@ -38,6 +38,11 @@ sudo apt install code # or code-insiders
 sudo apt install openjdk-23-jre
 ```
 
+
+```
+sudo apt install gnuplot
+```
+
 ```
 wget https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/apache-netbeans_16-1_amd64.deb
 ```
