@@ -1,1 +1,8 @@
 # RoteiroLaperc
+
+## VS CODE
+
+```
+a
+
+```
