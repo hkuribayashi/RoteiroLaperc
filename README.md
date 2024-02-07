@@ -37,3 +37,11 @@ sudo apt install code # or code-insiders
 ```
 sudo apt install openjdk-23-jre
 ```
+
+```
+wget https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/apache-netbeans_16-1_amd64.deb
+```
+
+```
+sudo dpkg -i apache-netbeans_*_amd64.deb
+```
