@@ -25,8 +25,7 @@ apt install snapd
 ```
 
 ```
-PATH=$PATH:/snap/bin/
-export PATH
+service snpad start
 ```
 
 ```
@@ -38,6 +37,13 @@ Sair do usuário root com o comando Ctrl+D e editar o arquivo .zshrc e adicionar
 ```
 nano ~/.zshrc
 ```
+
+
+```
+PATH=$PATH:/snap/bin/
+export PATH
+```
+
 
 
 
