@@ -31,13 +31,15 @@ service snpad start
 ```
 snap install blender --classic
 ```
+```
+systemctl enable --now snapd apparmor
+```
 
 Sair do usuário root com o comando Ctrl+D e editar o arquivo .zshrc e adicionar as seguintes linhas abaixo:
 
 ```
 nano ~/.zshrc
 ```
-
 
 ```
 PATH=$PATH:/snap/bin/
