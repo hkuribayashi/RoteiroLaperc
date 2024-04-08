@@ -25,7 +25,7 @@ apt install snapd
 ```
 
 ```
-service snpad start
+service snapd start
 ```
 
 ```
