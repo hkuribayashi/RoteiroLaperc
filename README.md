@@ -32,7 +32,7 @@ service snpad start
 snap install blender --classic
 ```
 ```
-systemctl enable --now snapd apparmor
+systemctl enable --now snapd snapd.apparmor
 ```
 
 Sair do usuário root com o comando Ctrl+D e editar o arquivo .zshrc e adicionar as seguintes linhas abaixo:
